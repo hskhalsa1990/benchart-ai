@@ -1,0 +1,5 @@
+# Install after requirements.txt for notebook and interactive 3D charts
+-r requirements.txt
+jupyterlab>=4,<5
+ipykernel>=6,<7
+plotly>=5.20,<7

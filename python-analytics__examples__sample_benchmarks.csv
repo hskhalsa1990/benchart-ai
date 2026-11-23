@@ -1,0 +1,13 @@
+name,value,unit,group,run
+startup,120,ms,before,1
+startup,118,ms,before,2
+startup,123,ms,before,3
+startup,115,ms,after,1
+startup,112,ms,after,2
+startup,114,ms,after,3
+render,45,ms,before,1
+render,48,ms,before,2
+render,44,ms,before,3
+render,39,ms,after,1
+render,40,ms,after,2
+render,38,ms,after,3

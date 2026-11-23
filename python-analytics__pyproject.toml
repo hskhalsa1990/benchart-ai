@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "benchart-ai"
+version = "0.1.0"
+description = "Python analytics companion for Benchart benchmark data"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.26,<3", "pandas>=2.1,<4", "scikit-learn>=1.4,<2",
+  "matplotlib>=3.8,<4", "fastapi>=0.110,<1", "pydantic>=2.6,<3"
+]
+
+[project.scripts]
+benchart-ai = "benchart_ai.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]

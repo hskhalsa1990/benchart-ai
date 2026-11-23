@@ -1,0 +1,4 @@
+# Optional deep-learning and computer-vision capabilities
+# Install only if needed; these packages can be large on mobile devices.
+torch>=2.2
+opencv-python-headless>=4.9

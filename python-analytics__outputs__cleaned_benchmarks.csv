@@ -1,0 +1,13 @@
+name,value,unit,group,run
+Matrix multiply,120,ms,Device A,1
+Matrix multiply,118,ms,Device A,2
+Matrix multiply,125,ms,Device A,3
+Matrix multiply,98,ms,Device B,1
+Matrix multiply,101,ms,Device B,2
+Matrix multiply,96,ms,Device B,3
+Image resize,42,ms,Device A,1
+Image resize,44,ms,Device A,2
+Image resize,39,ms,Device A,3
+Image resize,33,ms,Device B,1
+Image resize,31,ms,Device B,2
+Image resize,32,ms,Device B,3

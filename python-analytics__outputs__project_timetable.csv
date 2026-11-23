@@ -1,0 +1,7 @@
+task,start_day,duration_days
+Data setup,0,1
+Benchmark analysis,1,2
+Beam Lab,2,2
+ML experiments,3,2
+Visualization,4,1
+Documentation,5,1
