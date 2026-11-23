@@ -1,0 +1,114 @@
+[
+  {
+    "id": "ai-ml",
+    "name": "AI / Machine Learning",
+    "kind": "Neural network + feature space",
+    "status": "benchmark analytics + supervised RandomForest training API",
+    "description": "Feature-space visualization, model evaluation and anomaly detection using the existing Scikit-learn pipeline."
+  },
+  {
+    "id": "deep-learning",
+    "name": "Deep Learning",
+    "kind": "Layered neural network",
+    "status": "backend detection + demo visualization",
+    "description": "PyTorch backend and CUDA availability check. Training workflows are extension points, not pretrained models."
+  },
+  {
+    "id": "computer-vision",
+    "name": "Computer Vision",
+    "kind": "Camera + image plane",
+    "status": "OpenCV optional benchmark",
+    "description": "Image preprocessing and computer-vision benchmark tools. Enable OpenCV from requirements-optional.txt."
+  },
+  {
+    "id": "robotics",
+    "name": "Robotics",
+    "kind": "Articulated robot arm",
+    "status": "kinematics demo API",
+    "description": "Interactive robot-arm concept view and a simple two-link planar forward-kinematics endpoint."
+  },
+  {
+    "id": "cad",
+    "name": "CAD",
+    "kind": "Parametric mechanical part",
+    "status": "3D concept viewer",
+    "description": "Parametric geometry preview. This is not a full CAD kernel or STEP editor."
+  },
+  {
+    "id": "cae",
+    "name": "CAE",
+    "kind": "Deformed component",
+    "status": "post-processing preview",
+    "description": "Engineering result visualization and post-processing workflows."
+  },
+  {
+    "id": "fea",
+    "name": "FEA",
+    "kind": "Finite-element mesh + stress",
+    "status": "exported-result post-processing API; beam theory calculator added",
+    "description": "Analyze exported nodal displacement and von Mises stress. Not a finite-element solver."
+  },
+  {
+    "id": "cfd",
+    "name": "CFD",
+    "kind": "Flow field + streamlines",
+    "status": "velocity-field post-processing API; no CFD solver",
+    "description": "Illustrative vector-field visualization. Connect a CFD solver export for real simulation results."
+  },
+  {
+    "id": "topology",
+    "name": "Topology Optimization",
+    "kind": "Density-optimized lattice",
+    "status": "3D concept visualization; optimizer not included",
+    "description": "Illustrative density/lattice view. No SIMP optimization solve is performed by this demo."
+  },
+  {
+    "id": "data-science",
+    "name": "Data Science",
+    "kind": "3D data distribution",
+    "status": "Pandas analysis API",
+    "description": "Data profiling, cleaning, statistics and benchmark visualization."
+  },
+  {
+    "id": "beam-lab",
+    "name": "Beam Lab",
+    "kind": "Shear force + bending moment",
+    "status": "Euler-Bernoulli analytical calculator",
+    "description": "Simply-supported beam with full-span UDL or midspan point load; optional elastic deflection estimate."
+  },
+  {
+    "id": "materials",
+    "name": "Materials Library",
+    "kind": "Material property database",
+    "status": "typical reference properties",
+    "description": "Typical density, Young's modulus, yield strength and Poisson ratio for selected common alloys; verify certified datasheets."
+  },
+  {
+    "id": "shaft-design",
+    "name": "Shaft Design",
+    "kind": "Solid circular shaft torsion",
+    "status": "analytical calculator",
+    "description": "Elastic torsional shear stress and angle-of-twist calculator for a solid circular shaft."
+  },
+  {
+    "id": "fatigue",
+    "name": "Fatigue Analysis",
+    "kind": "Modified Goodman criterion",
+    "status": "preliminary fatigue check",
+    "description": "Calculate Goodman utilization and nominal factor of safety from stress amplitude, mean stress, endurance limit and ultimate strength."
+  },
+  {
+    "id": "unit-converter",
+    "name": "Engineering Unit Converter",
+    "kind": "Engineering unit conversion",
+    "status": "active calculator",
+    "description": "Convert length, force, pressure, mass, energy, power, speed and temperature units."
+  },
+  {
+    "id": "doe",
+    "name": "Design of Experiments",
+    "kind": "Two-level full factorial DOE",
+    "status": "active run-plan generator",
+    "description": "Generate full-factorial low/high experiment matrices with optional center-point repeats."
+  }
+]
