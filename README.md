@@ -1,24 +1,4 @@
-![](cover.jpeg)
 
-# 📊 benchart
-
-![](https://img.shields.io/badge/%23No_AI_used-00000)
-
-> A web tool to visualize and compare plain text data with Android Macrobenchmark data support
-
-![](https://img.shields.io/github/deployments/theapache64/benchart/github-pages)
-<a href="https://twitter.com/theapache64" target="_blank">
-<img alt="Twitter: theapache64" src="https://img.shields.io/twitter/follow/theapache64.svg?style=social" />
-</a>
-
-
-![virat-kohli-ben-stokes](https://github.com/theapache64/benchart/assets/9678279/01381728-1ae2-4124-a4d5-7cc3dd7ba910)
-
-> Yeah, correct, [he](https://en.wikipedia.org/wiki/Virat_Kohli)'s saying "Benchart"
-
-## ✨ Demo
-
-https://user-images.githubusercontent.com/9678279/204081186-36c7ce90-6c46-4ec6-9c36-dd16cdf25acf.mov
 
 ## 🐣 Getting Started
 
