@@ -1,8 +1,3 @@
-![](cover.jpeg)
-
-# 📊 benchart
-
-![](https://img.shields.io/badge/%23No_AI_used-00000)
 
 > A web tool to visualize and compare plain text data with Android Macrobenchmark data support
 
@@ -12,9 +7,6 @@
 </a>
 
 
-![virat-kohli-ben-stokes](https://github.com/theapache64/benchart/assets/9678279/01381728-1ae2-4124-a4d5-7cc3dd7ba910)
-
-> Yeah, correct, [he](https://en.wikipedia.org/wiki/Virat_Kohli)'s saying "Benchart"
 
 ## ✨ Demo
 
